@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import { Authenticator } from "@aws-amplify/ui-react";
 import { Storage } from "aws-amplify";
 import { useState } from "react";
